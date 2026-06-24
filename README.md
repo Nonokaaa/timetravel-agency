@@ -3,10 +3,11 @@
 Site vitrine **mobile-first** pour une agence de voyage temporel de luxe fictive. L'utilisateur découvre trois destinations historiques (Paris, Florence, Crétacé), consulte les détails de chaque époque, réserve une consultation et échange avec un assistant virtuel propulsé par l'IA.
 
 # Groupe
-Matteo CORAZZA - M1 Directeur Artistique - Brand & Motion Design
-Noémie SAINTEMARIE - M2 DEVFLSTK
-Illona SABOUNDJIAN - M2 DEVFLSTK
-Wilfrid SALLES OTTA - M2 DEVFLSTK
+
+- Matteo CORAZZA - M1 Directeur Artistique - Brand & Motion Design
+- Noémie SAINTEMARIE - M2 DEVFLSTK
+- Illona SABOUNDJIAN - M2 DEVFLSTK
+- Wilfrid SALLES OTTA - M2 DEVFLSTK
 ---
 
 ## Technologies utilisées
