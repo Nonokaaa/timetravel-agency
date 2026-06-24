@@ -130,7 +130,7 @@ function goToBooking() {
 
 <style scoped>
 .detail-hero {
-  padding: 0 var(--page-gutter) 1rem;
+  padding: 1rem var(--page-gutter) 1rem;
 }
 
 .detail-hero-visual {
@@ -366,7 +366,7 @@ function goToBooking() {
 
 .not-found {
   text-align: center;
-  padding: 6rem 1.25rem;
+  padding: 2rem var(--page-gutter) 6rem;
 }
 
 .not-found h1 {

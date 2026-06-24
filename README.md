@@ -2,8 +2,11 @@
 
 Site vitrine **mobile-first** pour une agence de voyage temporel de luxe fictive. L'utilisateur découvre trois destinations historiques (Paris, Florence, Crétacé), consulte les détails de chaque époque, réserve une consultation et échange avec un assistant virtuel propulsé par l'IA.
 
-Projet pédagogique Vue.js — interface en français, marque **Time Travel Agency** conservée en anglais.
-
+# Groupe
+Matteo CORAZZA - M1 Directeur Artistique - Brand & Motion Design
+Noémie SAINTEMARIE - M2 DEVFLSTK
+Illona SABOUNDJIAN - M2 DEVFLSTK
+Wilfrid SALLES OTTA - M2 DEVFLSTK
 ---
 
 ## Technologies utilisées
@@ -88,7 +91,6 @@ cp .env.example .env
 ```env
 MISTRAL_API_KEY=votre_cle_api_ici
 MISTRAL_MODEL=mistral-small-latest
-MISTRAL_API_URL=https://api.mistral.ai/v1/chat/completions
 ```
 
 > Obtenir une clé : [console.mistral.ai](https://console.mistral.ai/)  

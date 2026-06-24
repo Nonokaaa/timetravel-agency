@@ -124,8 +124,9 @@ function goToBooking() {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  height: var(--header-height);
   min-height: var(--header-height);
-  padding: 0.65rem var(--page-gutter);
+  padding: 0 var(--page-gutter);
   background: var(--gradient-gold);
   color: var(--text-on-gold);
 }

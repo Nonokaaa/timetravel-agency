@@ -34,7 +34,7 @@
   --text-shadow-media: 0 1px 4px rgba(0, 0, 0, 0.95), 0 0 12px rgba(0, 0, 0, 0.6);
   --font-display: 'Against', Georgia, 'Times New Roman', serif;
   --font-sans: 'Futura BdCn BT', 'Futura', 'Century Gothic', 'Trebuchet MS', sans-serif;
-  --header-height: 56px;
+  --header-height: 72px;
   --page-gutter: 1.25rem;
   --transition: 0.3s ease;
   --ease-natural: cubic-bezier(0.22, 1, 0.36, 1);
